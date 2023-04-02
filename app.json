@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "3y4enLinea",
-    "slug": "3y4enlinea",
+    "name": "3enLinea",
+    "slug": "3enlinea",
     "version": "1.0.0",
     "sdkVersion": "45.0.0",
     "assetBundlePatterns": [
@@ -9,6 +9,11 @@
     ],
     "android": {
       "package": "com.enlinea"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d79fc1ec-7937-4d03-b3cf-2ef3162a70ff"
+      }
     }
   }
 }
